@@ -1,1 +1,1 @@
-# Demo-NTT-DATA
+# Demo-prokedex
